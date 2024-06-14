@@ -56,6 +56,10 @@
     height: 44px;
 }
 
+.autocomplit__item:hover{
+    background-color: #65CDF9;
+}
+
 .repos{
     margin-right: auto;
     margin-left: auto;
